@@ -1,2 +1,2 @@
 # the-refix-studio
-The Refix Studio Kolkata
+The Refix Studio 
